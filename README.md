@@ -2,8 +2,6 @@
 
 This repository provides an end-to-end pipeline to import, embed, and semantically query geospatial datasets using Neo4j and Python. It integrates several datasets, including **GridKit**, **CORDIS**, **EU Power Plants**, **ENTSO-E TSO Network**, and **OpenStreetMap (OSM)** energy infrastructure.
 
----
-
 ## 📚 Included Datasets
 
 - **GridKit European Transmission Grid**
@@ -18,16 +16,12 @@ This repository provides an end-to-end pipeline to import, embed, and semantical
   - Substations
   - Transmission Lines
 
----
-
 ## 🛠️ Technologies Used
 
 - **Neo4j 5.19.0** (Graph Database)
 - **Docker & Docker Compose** (Containerization)
 - **Python 3.11**
 - **LangChain & SentenceTransformer** (Semantic Embeddings)
-
----
 
 ## 📂 Project Structure
 
